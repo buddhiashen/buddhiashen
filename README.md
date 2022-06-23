@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+#### I am Fullstack Webdev student and python noob
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buddhiashen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
